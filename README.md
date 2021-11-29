@@ -1,4 +1,13 @@
-<p align="center">  
+<h1 align="left">Wee must pull up our stars</h1>
+<p>
+  Let's celebrate and write some code
+  
+</p>
+
+<p align">  
+<!--
+nobody:
+me:newline goes brrrrr-->
 ⣿⣿⣿⣿⡟⠛⠁⠄⠄⠄⠄⢀⣀⣀⠄⠄⠄⠄⣤⣽⣿⣿⣿⣿⣿⣿⣿⣿  <br>
 ⣿⣿⣿⡋⠁⠄⠄⠄⣠⣶⣾⣿⣿⣿⣿⠄⢦⡄⠐⠬⠛⢿⣿⣿⣿⣿⣿⣿  <br>
 ⣿⡿⠇⠁⠄⠄⣠⣾⣿⣿⡿⠟⠋⠁⠄⠄⠈⠁⠄⠄⠄⠄⠙⢿⣿⣿⣿⣿  <br>
