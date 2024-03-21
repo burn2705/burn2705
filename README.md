@@ -14,4 +14,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>My skills</h2> 
+<!--<h2>My skills</h2> -->
